@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm kevin leon</h1>
 <h3 align="center">A passionate android developer from Colombia. With 1 year of experience I have made multiple applications with different use cases, some use tools like GOOGLE MAPS, use of database in real time with FIREBASE or Web scraping with JSOUP.</h3>
 
-- 🔭 I’m currently working on [What's my Task App](https://github.com/k-alex-leon/WhatsMyTask)
-
-- 🌱 I’m currently learning **android architecture**
+- 🌱 I’m currently learning **react projects**
 
 - 📫 How to reach me **kelemon@outlook.com**
 
